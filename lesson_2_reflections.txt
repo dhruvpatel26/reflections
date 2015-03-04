@@ -19,6 +19,8 @@ Branches would be helpful in creating different versions of your program while k
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams helps to visualize different versions of the program and see which commit falls under which branch with messages of those commits
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
