@@ -28,3 +28,5 @@ The result of merging two branches together is that you get one single branch fr
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Automatic merge is something that the user doesn't have a control over and creates unwanted scenarios and doind it manually gives the user more control over and the user knows exactly which branches to merge when and why.
