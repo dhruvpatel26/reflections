@@ -24,5 +24,7 @@ Diagrams helps to visualize different versions of the program and see which comm
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of merging two branches together is that you get one single branch from two with all the changes that need to be present in the new one. You represent the diagram in that way to help visualize the parents and children of that merge.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
