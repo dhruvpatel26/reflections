@@ -11,3 +11,7 @@ Describe the differences between forks, clones, and branches. When would you use
 Fork is just like cloning in which you copy the contents of someone else's  repository. You might want to fork it if you are using someone else's work/program to create it in your own version. This way you give credit to the person whose work it originally was. Also, more often than not you won't have the permission to change the contents of the original program. 
 You would clone a repository when you would like to copy an entire repository from one computer to another. Meaning, when you are copying it from github to your local computer, whereas forking creates a copy of it on your own github account as a new repository.
 Branches are something you would create if you want to work on a different version of the program while keeping the original one the same. Also, sharing those branches with others and allowing them to work on it as well.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+So, that you can combine it locally with your other files and push those changes back to remote
