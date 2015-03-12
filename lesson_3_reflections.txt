@@ -13,5 +13,7 @@ You would clone a repository when you would like to copy an entire repository fr
 Branches are something you would create if you want to work on a different version of the program while keeping the original one the same. Also, sharing those branches with others and allowing them to work on it as well.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-
 So, that you can combine it locally with your other files and push those changes back to remote
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would probably be communicating through email, live chat and maybe even skype and sending files/folders back and forth to stay up to date. The easier thing would be that I won't have to learn a version control system like git and github because I already know how to communicate through email live chat and skype. The hard part would be that all the project members would most likely need to be available at the same time rather than having freedom to work independently on our own.
